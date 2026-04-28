@@ -17,7 +17,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="E2E BY XMARTY AYUSH KING",
+    page_title="E2E BY PETER WONDERWRLD",
     page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
